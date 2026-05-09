@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo record."
+type: software
+title: "Analysis code for spatial immune microenvironment succession during sequential biologic therapy in ulcerative colitis"
+version: "1.0.0"
+date-released: "2026-05-09"
+abstract: "Jupyter Notebook analysis scripts used for imaging mass cytometry-based single-cell annotation, immune cell composition analysis, distance-based spatial analysis, macrophage-centered neighborhood analysis, cumulative distribution function analysis, and figure generation in a longitudinal ulcerative colitis case study across sequential biologic therapy periods."
+license: MIT
+repository-code: "https://github.com/lijiayi990430/Sequential-Biologic-Therapy-IMC"
+keywords:
+  - imaging mass cytometry
+  - ulcerative colitis
+  - spatial immunology
+  - immune microenvironment
+  - biologic therapy
+  - infliximab
+  - vedolizumab
+  - ustekinumab
+  - macrophage
+  - T cell
+  - Jupyter Notebook
+authors:
+  - family-names: "Li"
+    given-names: "Jiayi"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Li"
+    given-names: "Chujia"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Li"
+    given-names: "Zhangxin"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Li"
+    given-names: "Haolin"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Li"
+    given-names: "Huizhen"
+    affiliation: "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+  - family-names: "Feng"
+    given-names: "Zelin"
+    affiliation: "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+  - family-names: "Yi"
+    given-names: "Qinghua"
+    affiliation: "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+  - family-names: "Sun"
+    given-names: "Guangyong"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Zhang"
+    given-names: "Dong"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+  - family-names: "Sheng"
+    given-names: "Jianpeng"
+    affiliation: "Chinese Institutes for Medical Research, Beijing, China"
+  - family-names: "Cao"
+    given-names: "Xiaocang"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China; Department of Gastroenterology, Integrative Microecology Clinical Center, Shenzhen Hospital of Southern Medical University, Shenzhen, China"
+  - family-names: "Liu"
+    given-names: "Xinjuan"
+    affiliation: "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
