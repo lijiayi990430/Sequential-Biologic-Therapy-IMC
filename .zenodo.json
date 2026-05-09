@@ -1,0 +1,73 @@
+{
+  "creators": [
+    {
+      "name": "Li, Jiayi",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Li, Chujia",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Li, Zhangxin",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Li, Haolin",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Li, Huizhen",
+      "affiliation": "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+    },
+    {
+      "name": "Feng, Zelin",
+      "affiliation": "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+    },
+    {
+      "name": "Yi, Qinghua",
+      "affiliation": "Department of Gastroenterology and Hepatology, Tianjin Medical University General Hospital, Tianjin, China"
+    },
+    {
+      "name": "Sun, Guangyong",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Zhang, Dong",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    },
+    {
+      "name": "Sheng, Jianpeng",
+      "affiliation": "Chinese Institutes for Medical Research, Beijing, China"
+    },
+    {
+      "name": "Cao, Xiaocang",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China; Department of Gastroenterology, Integrative Microecology Clinical Center, Shenzhen Hospital of Southern Medical University, Shenzhen, China"
+    },
+    {
+      "name": "Liu, Xinjuan",
+      "affiliation": "Department of Gastroenterology, Beijing Chaoyang Hospital, Capital Medical University, Beijing, China"
+    }
+  ],
+  "title": "Analysis code for spatial immune microenvironment succession during sequential biologic therapy in ulcerative colitis",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "description": "<p>This software archive contains Jupyter Notebook analysis scripts used to generate figures and spatial immune microenvironment analyses for the associated manuscript <em>Spatial Immune Microenvironment Succession During Sequential Biologic Therapy: Evidence from a Patient with Refractory Ulcerative Colitis</em>.</p><p>The notebooks support imaging mass cytometry-based single-cell annotation, immune cell composition analysis, macrophage subset analysis, distance-based spatial analysis, macrophage-centered neighborhood analysis, cumulative distribution function analysis, and figure generation across five disease periods: baseline active disease (P1), infliximab-induced remission (P2), secondary loss of response to infliximab (P3), vedolizumab non-response (P4), and ustekinumab-induced remission (P5).</p><p>The MIT License applies to the code and software documentation only. Clinical data, raw imaging mass cytometry data, original tissue-section images, patient-derived materials, and other non-code research data are not covered by this software license.</p>",
+  "keywords": [
+    "imaging mass cytometry",
+    "ulcerative colitis",
+    "spatial immunology",
+    "immune microenvironment",
+    "biologic therapy",
+    "infliximab",
+    "vedolizumab",
+    "ustekinumab",
+    "macrophage",
+    "T cell",
+    "Jupyter Notebook"
+  ],
+  "notes": "This record archives analysis code only. Patient-derived data and raw imaging files are not included in the software license."
+}
